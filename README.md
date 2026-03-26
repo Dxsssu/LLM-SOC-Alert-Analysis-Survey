@@ -22,17 +22,31 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
 
 ## 02. Academic Papers
 
-- Measurement
+- **Surveys / Reviews** 
+  - To be added
+
+
+- **Evaluation & Empirical Studies**
   - **[Usenix Security 2025]** True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-limin)
-- Surveys / Reviews 
+  - **[arXiv 2026]** Before You Hand Over the Wheel: Evaluating LLMs for Security Incident Analysis [[Link]](https://arxiv.org/abs/2603.06422)
+  - **[CoNEXT 2024]** A Systematic Comparison of Large Language Models Performance for Intrusion Detection [[Link]](https://dl.acm.org/doi/abs/10.1145/3696379)
+
+
+- **Conventional Machine Learning & Deep Learning**
   - To be added
-- Machine Learning / Deep Learning Related
-  - To be added
-- LLM Related
+
+
+
+- **LLM-based Approaches**
   - **[NDSS 2026]** Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination [[Link]](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination)
-  - **[Arxiv 2025]** IRCopilot: Automated Incident Response with Large Language Models [[Link]](https://arxiv.org/abs/2505.20945)
-- AI Agent Related
-  - **[Arxiv 2025]** CORTEX: Collaborative LLM Agents for High-Stakes Alert Triage [[Link]](https://arxiv.org/abs/2510.00311)
+  - **[arXiv 2025]** IRCopilot: Automated Incident Response with Large Language Models [[Link]](https://arxiv.org/abs/2505.20945)
+  - **[arXiv 2025]** An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models [[Link]](https://arxiv.org/abs/2509.01271)
+
+
+
+
+- **Autonomous Agents & Multi-Agent Systems**
+  - **[arXiv 2025]** CORTEX: Collaborative LLM Agents for High-Stakes Alert Triage [[Link]](https://arxiv.org/abs/2510.00311)
   - **[NDSS 2026 Workshop]** Experiences of Using Agentic AI to Fill Tooling Gaps in a Security Operations Center [[Link]](https://www.ndss-symposium.org/ndss-paper/auto-draft-735)
 
 
