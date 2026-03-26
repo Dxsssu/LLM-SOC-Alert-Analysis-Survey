@@ -1,7 +1,11 @@
-# LLM-SOC-Alert-Analysis-Survey
+# Awesome-LLM4SecOps
 
-## 📖 仓库简介
-本仓库致力于收集、整理和归档与 SOC 网络安全告警分析相关的研究资料、技术方案、知识资源与数据集，重点关注大模型与多智能体方法在告警研判、关联分析、调查溯源和响应辅助等场景中的应用。仓库内容面向调研、学习与方案设计，帮助读者快速了解这一方向的行业现状、学术进展、开源实践和可用数据资源。
+A curated list of resources dedicated to **leveraging Large Language Models (LLMs) to automate and optimize Security Operations (SecOps)**.
+
+This repository aggregates research papers, tools, case studies, and articles focused on **AI for Security**—specifically exploring how generative AI and LLMs can empower security analysts, streamline SOC workflows, enhance threat detection, and automate incident response.
+
+
+Contributions are welcome! Please feel free to submit a PR to add new resources.
 
 
 ## 📂 目录结构
